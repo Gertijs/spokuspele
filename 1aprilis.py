@@ -13,6 +13,8 @@ start_button.place(x=200, y=250, anchor="center")
 
 picked_door = 0  # Initialize picked_door variable
 
+ #i am nigga
+
 def start_game():
     global spoka_durvis, door1, door2, door3
 
